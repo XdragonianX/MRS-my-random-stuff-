@@ -4,6 +4,5 @@ yeah thats basically all i have to say.
 
 Well i hope you guys enjoy the stuff here!
 # Stuff to know
-I AM WARNING YOU ABOUT A FEW STUFF LIKE:
-main.bat
-that thing is a huge danger and i dont recommend using it ever
+WARNING:
+Some of this stuff can mess up your computer...
